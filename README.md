@@ -30,3 +30,4 @@
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/aeoV3qO7AaqwtAD3XIINwi/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0),
 
+
