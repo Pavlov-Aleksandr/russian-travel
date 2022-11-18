@@ -1,7 +1,6 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  
   max-width: 1184px;
   padding: 92px 48px 24px;
   width: 100%;
@@ -28,7 +27,6 @@
     flex-direction: column;
     gap: 48px;
     padding: 64px 16px 24px;
-    align-items: baseline;
     margin: 0;
   }
 }
