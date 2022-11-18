@@ -1,0 +1,21 @@
+.place__paragraph-main {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.63;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__paragraph-main {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width:480px) {
+  .place__paragraph-main {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding: 0 16px;
+    word-break: break-word;
+  }
+}
