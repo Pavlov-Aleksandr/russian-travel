@@ -1,5 +1,21 @@
 .lead__image {
+  align-self: center;
   object-fit: cover;
+  min-height: 615px;
   width: 100%;
-  margin-bottom: 8px;
+  display: block;
 }
+
+@media screen and (max-width: 1280px) {
+  .lead__image {
+    min-height: 100%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__image {
+    min-height: 200px;
+  }
+}
+
+
