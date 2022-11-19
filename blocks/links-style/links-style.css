@@ -1,9 +1,9 @@
 .links-style {
-  transition: opacity .4s ease-in;
-  color: #FFFFFF;
+  transition: opacity 0.4s ease-in;
+  color: #FFF;
 }
 
 .links-style:hover {
-  opacity: .8;
+  opacity: 0.8;
   cursor: pointer;
 }

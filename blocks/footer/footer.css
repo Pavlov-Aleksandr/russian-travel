@@ -1,5 +1,6 @@
 .footer {
   display: flex;
+  flex-direction: row;
   justify-content: space-between;
   max-width: 1184px;
   padding: 92px 48px 24px;
@@ -29,4 +30,6 @@
     margin: 0;
   }
 }
+
+
 

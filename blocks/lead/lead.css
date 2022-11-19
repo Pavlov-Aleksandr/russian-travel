@@ -9,13 +9,21 @@
 
 @media screen and (max-width: 1024px) {
   .lead {
+    max-width: 720px;
     padding: 56px 48px 0;
   }
 }
 
 @media screen and (max-width: 768px) {
   .lead {
-    padding: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead {
+    max-width: 288px;
   }
 }
 
