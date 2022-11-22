@@ -7,23 +7,27 @@
   max-width: 1184px;
   width: 100%;
 }
+
 @media screen and (max-width: 1024px) {
   .header {
     max-width: 928px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media (min-width: 768px) and (max-width: 1023px) {
   .header {
+    padding: 28px 24px 0 24px;
     max-width: 720px;
-    padding-right: 24px;
-    padding-left: 24px;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media (min-width: 320px) and (max-width: 767px) {
   .header {
-    padding: 16px 16px 0;
+    padding: 16px 16px 0 16px;
+    min-width: 288px;
+    margin: 0;
     width: calc(100% - 2*24px);
   }
 }
+
+

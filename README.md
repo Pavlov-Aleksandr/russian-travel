@@ -6,7 +6,7 @@
 -----
 
 # "Путешествия по России"
-[**Russian travel**](https://github.com/Pavlov-Aleksandr/russian-travel) (ссылка для просмотра)
+[**Russian travel**](https://pavlov-aleksandr.github.io/russian-travel/index.html) (ссылка для просмотра)
 
 ## Описание проекта
 Данный проект представляет собой адаптивный одностраничный сайт. В нем рассказывается о самых интересных местах для путешествия по России. 

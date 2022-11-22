@@ -31,11 +31,8 @@
   .place {
     display: flex;
     flex-direction: column;
-    gap: 0;
+    row-gap: 32px;
     margin-bottom: 50px;
   }
 }
-
-
-
 
